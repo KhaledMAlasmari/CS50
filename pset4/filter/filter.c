@@ -176,7 +176,10 @@ void blur(int height, int width, RGBTRIPLE image[height][width])
         }
 
     }
+<<<<<<< HEAD:pset4/filter/filter.c
 	
+=======
+>>>>>>> 27dd34eef7540237bc4fcc9ef28a34d778cc79c9:pset4/filter.c
     // Output
     for(int i = 0; i < height; i++)
     {
