@@ -9,6 +9,7 @@ def credit():
         print("INVALID")
 
 
+
 def luhan(ccNum, length):
     length = (length * -1) - 1
     checkSum = 0
